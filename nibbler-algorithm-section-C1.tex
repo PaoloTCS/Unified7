@@ -1,0 +1,22 @@
+\section{The Nibbler Algorithm and Information Propagation}
+
+\subsection{Differential Encoding and Compression}
+
+We formalize the differential encoding process used in the Nibbler Algorithm for efficient information propagation.
+
+\begin{definition}[Differential Encoding Function]
+For two states $s_i$ and $s_j$, the differential encoding function $D$ is defined as:
+
+\begin{equation}
+D(s_i, s_j) = \min\{f \mid s_j = f(s_i)\}
+\end{equation}
+
+where $f$ is a transformation function representing the minimal set of changes required to transition from state $s_i$ to state $s_j$.
+\end{definition}
+
+This encoding minimizes the amount of information transmitted between nodes, optimizing the algorithm's efficiency.
+
+These mathematical formalizations provide a rigorous foundation for the Nibbler Algorithm, enhancing its theoretical underpinnings and facilitating deeper analysis of its properties and applications.
+
+% ... (Rest of the section continues)
+
