@@ -1,4 +1,3 @@
-% main.tex 
 \documentclass[12pt,a4paper]{article}
 
 % Packages
@@ -9,13 +8,14 @@
 \usepackage{hyperref}
 \usepackage{xcolor}
 \usepackage{amsthm}
-% \usepackage{algorithm} % Remove this if using algorithmicx and algpseudocode
-% \usepackage{algorithmic} % Remove this as well since it's conflicting
-
-% Use algorithmicx and algpseudocode for algorithm formatting
+\usepackage{algorithm}
+%   \usepackage{algorithmic}
+% adding 2 lines below
 \usepackage{algorithmicx}
 \usepackage{algpseudocode}
 
+
+\usepackage{algpseudocode}
 \usepackage{braket}
 
 % Theorem-like environments
@@ -39,7 +39,7 @@
 
 % Title information
 \title{\textbf{Unified Framework for Fundamental Interaction and Communication across Physical, Linguistic, and Computational Systems}}
-\author{Paolo Pignatelli di Montecalvo}
+\author{Paolo Pignatelli, ChatGPT, and Claude (Anthropic AI Assistant)}
 \date{October 2024}
 
 \begin{document}
@@ -65,7 +65,7 @@
 \input{acknowledgments-section}
 
 % References section
-% \bibliographystyle{plain}
-% \bibliography{references}
+\bibliographystyle{plain}
+\bibliography{references}
 
 \end{document}

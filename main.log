@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.16)  19 OCT 2024 07:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.16)  19 OCT 2024 10:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -255,106 +255,89 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@postskip=\skip55
 \thm@headsep=\skip56
 \dth@everypar=\toks30
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/algorithms/algorithm.sty
-Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
- (/usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count286
-\float@exts=\toks31
-\float@box=\box53
-\@float@everytoks=\toks32
-\@floatcapt=\box54
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\@float@every@algorithm=\toks33
-\c@algorithm=\count287
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
-Package: algpseudocode 
- (/usr/local/texlive/2024/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
-Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
-
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
-\c@ALG@line=\count288
-\c@ALG@rem=\count289
-\c@ALG@nested=\count290
+\c@ALG@line=\count286
+\c@ALG@rem=\count287
+\c@ALG@nested=\count288
 \ALG@tlm=\skip57
 \ALG@thistlm=\skip58
-\c@ALG@Lnr=\count291
-\c@ALG@blocknr=\count292
-\c@ALG@storecount=\count293
-\c@ALG@tmpcounter=\count294
+\c@ALG@Lnr=\count289
+\c@ALG@blocknr=\count290
+\c@ALG@storecount=\count291
+\c@ALG@tmpcounter=\count292
 \ALG@tmplength=\skip59
-)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
 Document Style - pseudocode environments for use with the `algorithmicx' style
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/braket/braket.sty)
-\c@definition=\count295
-\c@theorem=\count296
-\c@proposition=\count297
-\c@conjecture=\count298
-\c@hypothesis=\count299
+\c@definition=\count293
+\c@theorem=\count294
+\c@proposition=\count295
+\c@conjecture=\count296
+\c@hypothesis=\count297
  (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count300
-\l__pdf_internal_box=\box55
+\l__color_backend_stack_int=\count298
+\l__pdf_internal_box=\box53
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
  (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count301
+\scratchcounter=\count299
 \scratchdimen=\dimen156
-\scratchbox=\box56
-\nofMPsegments=\count302
-\nofMParguments=\count303
-\everyMPshowfont=\toks34
-\MPscratchCnt=\count304
+\scratchbox=\box54
+\nofMPsegments=\count300
+\nofMParguments=\count301
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count302
 \MPscratchDim=\dimen157
-\MPnumerator=\count305
-\makeMPintoPDFobject=\count306
-\everyMPtoPDFconversion=\toks35
+\MPnumerator=\count303
+\makeMPintoPDFobject=\count304
+\everyMPtoPDFconversion=\toks32
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 39.
+Package hyperref Info: Link coloring OFF on input line 45.
  (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (16.92575pt too wide) in paragraph at lines 42--42
- [][] 
- []
-
-(./dedication-section.tex [1
+) (./dedication-section.tex [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [2
 
@@ -388,7 +371,7 @@ Overfull \hbox (7.32083pt too wide) in paragraph at lines 55--56
 \T1/cmr/m/n/12 tur-ally spe-cific lan-guage use, id-iomatic ex-pres-sions, or context-dependent
  []
 
-) (./nibbler-algorithm-section-C1.tex [12]
+[12]) (./nibbler-algorithm-section-C1.tex
 Overfull \hbox (8.68831pt too wide) in paragraph at lines 1--1
 []\T1/cmr/bx/n/17.28 The Nib-bler Al-go-rithm and In-for-ma-tion Prop-
  []
@@ -418,31 +401,37 @@ Overfull \hbox (6.23364pt too wide) in paragraph at lines 138--139
 []\T1/cmr/m/n/12 Development of FIL-based pro-gram-ming lan-guages for quantum-classical
  []
 
-[20]) (./implications-applications-section.tex [21]
-Overfull \hbox (11.55537pt too wide) in paragraph at lines 43--44
-[][]\T1/cmr/bx/n/12 Definition 9 \T1/cmr/m/n/12 (Neu-ral-Lin-guis-tic Func-tor)\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 We de-fine a func-tor $\OML/cmm/m/it/12 F[] \OT1/cmr/m/n/12 : \OMS/cmsy/m/n/12 C[] !
+[20]) (./Blockchain-Enhanced-Knowledge-Validation.tex
+Overfull \hbox (34.64008pt too wide) in paragraph at lines 9--10
+[][]\T1/cmr/bx/n/12 Definition 9 \T1/cmr/m/n/12 (Knowl-edge Block)\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 A Knowl-edge Block $\OML/cmm/m/it/12 KB$ \T1/cmr/m/it/12 is a tu-ple $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 D; H[]; P; V\OT1/cmr/m/n/12 )$
  []
 
+[21] [22]
+Overfull \hbox (17.97035pt too wide) in paragraph at lines 82--83
+[][]\T1/cmr/bx/n/12 Theorem 5 \T1/cmr/m/n/12 (Knowl-edge In-tegrity)\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 Given a Knowl-edge Graph $\OML/cmm/m/it/12 G$ \T1/cmr/m/it/12 with blockchain
+ []
 
+[23]) (./implications-applications-section.tex [24]
+Overfull \hbox (18.30373pt too wide) in paragraph at lines 43--44
+[][]\T1/cmr/bx/n/12 Definition 12 \T1/cmr/m/n/12 (Neu-ral-Lin-guis-tic Func-tor)\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 We de-fine a func-tor $\OML/cmm/m/it/12 F[] \OT1/cmr/m/n/12 : \OMS/cmsy/m/n/12 C[] !
+ []
+
+[25]
 Overfull \hbox (2.28702pt too wide) in paragraph at lines 57--58
 [][]\T1/cmr/bx/n/12 Hypothesis 2 \T1/cmr/m/n/12 (Con-scious-ness as Meta-Stable In-for-ma-tion Flow)\T1/cmr/bx/n/12 . []\T1/cmr/m/it/12 Con-scious-
  []
 
-[22] [23]
+[26] [27]
 Overfull \hbox (6.23364pt too wide) in paragraph at lines 138--139
 []\T1/cmr/m/n/12 Development of FIL-based pro-gram-ming lan-guages for quantum-classical
  []
 
-[24]) (./ethical-considerations-section.tex [25] [26] [27]) (./conclusion-section.tex
+) (./ethical-considerations-section.tex [28] [29] [30]) (./conclusion-section.tex
 Overfull \hbox (1.54608pt too wide) in paragraph at lines 6--7
 \T1/cmr/m/n/12 By in-te-grat-ing the Fun-da-men-tal In-ter-ac-tion Lan-guage (FIL), Lan-guage Union
  []
 
-[28] [29]) (./acknowledgments-section.tex [30]) (./main.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-) [31] (./main.aux)
+[31] [32]) (./acknowledgments-section.tex [33]) [34] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -452,21 +441,21 @@ L3 programming layer <2024-02-20>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: FEABCE64CB860FDB8FCB56A62C1DB279;18113.
+(rerunfilecheck)             Checksum: 6602B3BA1E16032C0A0D180CABCE732E;19714.
  ) 
 Here is how much of TeX's memory you used:
- 11483 strings out of 474116
- 174772 string characters out of 5743682
+ 11409 strings out of 474116
+ 173599 string characters out of 5743682
  1941187 words of memory out of 5000000
- 33461 multiletter control sequences out of 15000+600000
- 576801 words of font info for 81 fonts, out of 8000000 for 9000
+ 33377 multiletter control sequences out of 15000+600000
+ 577564 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,716b,663s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1728.pfb>
-Output written on main.pdf (31 pages, 409505 bytes).
+ 75i,10n,79p,716b,641s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfti1728.pfb>
+Output written on main.pdf (34 pages, 449941 bytes).
 PDF statistics:
- 792 PDF objects out of 1000 (max. 8388607)
- 708 compressed objects within 8 object streams
- 185 named destinations out of 1000 (max. 500000)
- 689 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 858 PDF objects out of 1000 (max. 8388607)
+ 769 compressed objects within 8 object streams
+ 202 named destinations out of 1000 (max. 500000)
+ 753 words of extra memory for PDF output out of 10000 (max. 10000000)
 

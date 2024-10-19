@@ -1,22 +1,23 @@
 \documentclass[12pt,a4paper]{article}
 
 % Packages
+\usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage{lmodern}
-\usepackage{amsmath, amssymb, amsfonts}
-\usepackage{amsthm}
-\usepackage{xcolor}
+\usepackage{amsmath,amssymb,amsfonts}
 \usepackage{graphicx}
-\usepackage{braket}  % Added for quantum mechanics notation
-\usepackage{natbib}  % Added for bibliography management
-\usepackage[colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=blue]{hyperref}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{amsthm}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{braket}
 
 % Theorem-like environments
-\newtheorem{definition}{Definition}[section]
-\newtheorem{theorem}{Theorem}[section]
-\newtheorem{proposition}{Proposition}[section]
-\newtheorem{conjecture}{Conjecture}[section]
-\newtheorem{hypothesis}{Hypothesis}[section]
+\newtheorem{definition}{Definition}
+\newtheorem{theorem}{Theorem}
+\newtheorem{proposition}{Proposition}
+\newtheorem{conjecture}{Conjecture}
+\newtheorem{hypothesis}{Hypothesis}
 
 % Custom environment for dedication
 \newenvironment{dedication}
@@ -28,21 +29,20 @@
   }
   {\vspace{\stretch{3}}
    \clearpage
-  } 
-
-  
+  }
 
 % Title information
-\title{Unified Framework for Fundamental Interaction and Communication across Physical, Linguistic, and Computational Systems}
-\author{Paolo Pignatelli}
-\date{\today}
+\title{\textbf{Unified Framework for Fundamental Interaction and Communication across Physical, Linguistic, and Computational Systems}}
+\author{Paolo Pignatelli, ChatGPT, and Claude (Anthropic AI Assistant)}
+\date{October 2024}
 
 \begin{document}
 
 \maketitle
-\newpage
+
+\input{dedication-section}
+
 \tableofcontents
-\newpage
 
 \input{introduction-section-C1}
 \input{fil-section-C2}
@@ -50,12 +50,15 @@
 \input{nibbler-algorithm-section-C1}
 \input{quantum-connections-section}
 \input{integration-section}
+%  \input{blockchain-validation-section}  to be worked on
 \input{implications-applications-section}
 \input{ethical-considerations-section}
 \input{conclusion-section}
 
+\input{acknowledgments-section}
+
 % References section
-\bibliographystyle{plainnat}  % Changed to plainnat for natbib compatibility
-\bibliography{references}  % Uncommented this line
+\bibliographystyle{plain}
+\bibliography{references}
 
 \end{document}
